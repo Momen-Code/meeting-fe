@@ -1,0 +1,12 @@
+export { default as Splash } from "./Splash";
+export { default as UserType } from "./userType";
+export { default as Login } from "./Login";
+export { default as AssistantDashboard } from "./assistant-dashboard";
+export { default as AdminDashboard } from "./admin-dashboard";
+// export { default as Camera } from "./Camera";
+// export { default as Edit } from "./Edit";
+// export { default as Home } from "./Home";
+// export { default as InOut } from "./InOut";
+// export { default as Register } from "./Register";
+// export { default as TypeAction } from "./TypeAction";
+// export { default as Users } from "./Users";
